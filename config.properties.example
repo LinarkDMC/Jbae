@@ -1,0 +1,5 @@
+# Copy this file to "config.properties" (same folder you run the program from)
+# and fill in the credentials of your Twitch application.
+# Create one for free at https://dev.twitch.tv/console
+client_id=YOUR_CLIENT_ID
+client_secret=YOUR_CLIENT_SECRET

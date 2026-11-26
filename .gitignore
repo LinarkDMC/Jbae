@@ -1,0 +1,26 @@
+# Credentials - NEVER commit these
+config.properties
+.env
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Local database (created in the home folder, but just in case)
+*.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
